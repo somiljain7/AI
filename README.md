@@ -1,6 +1,12 @@
-AI ALGORITHMS 
+# ` AI ALGORITHMS  `
+**This repository contains my algorithm implemetantion +EDA + data visualization**
 
-FEEL FREE TO CONTRIBUTE
+# `Setup: `
+```
+$ git clone https://github.com/somiljain7/AI.git
 
-## ML CheatSheet (Python and R lang)
-![cheatsheet](https://github.com/JagadishSivakumar/AI-algorithms/blob/master/Py%20and%20R%20cheatsheet.jpg?raw=true)
+```
+# `feel free to contribute :)`
+
+
+
